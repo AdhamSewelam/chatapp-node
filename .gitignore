@@ -1,0 +1,5 @@
+/node_modules/
+.env
+example.json
+package-lock.json
+.vercel
